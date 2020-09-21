@@ -10,12 +10,12 @@ body {
         margin: 0; 
     }
             ul li {
-                font-size: 30px;
+                font-size: 18px;
                 list-style-type: none;
                 height: 48px;
                 width: 100%;
-                color: rgba(0,0,0,0.63);
-                border-bottom: 1pxsolid#272262;
+                color: rgba(0, 0, 0, 0.63);
+                border-bottom: 1pxs solid#272262;
                 display: flex;
                 align-items: center;
             }

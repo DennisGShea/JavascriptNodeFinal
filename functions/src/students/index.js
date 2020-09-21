@@ -19,7 +19,8 @@ let students = [{
     courses: ['JavaScript', 'React'],
     level: 'Intermediate'
   }]
-  
+
+
   exports.getStudents = (req, res) => {
    res.send(students)
   }
@@ -31,3 +32,6 @@ let students = [{
     })
    res.send(results)
   }
+
+
+

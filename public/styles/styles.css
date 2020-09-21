@@ -1,0 +1,21 @@
+body {
+     background-color: #e8e8e8;
+      font-family: 'Roboto', sans-serif, Helvetica, sans-serif; 
+      width: 960px; 
+      margin: 0auto; 
+      padding: 0;
+     }
+      ul{ 
+        padding: 0;
+        margin: 0; 
+    }
+            ul li {
+                font-size: 30px;
+                list-style-type: none;
+                height: 48px;
+                width: 100%;
+                color: rgba(0,0,0,0.63);
+                border-bottom: 1pxsolid#272262;
+                display: flex;
+                align-items: center;
+            }
